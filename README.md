@@ -1,8 +1,11 @@
 ## first install the packages if you want to run the code, if you just want the exe it will not be neccessary:
-pip install -r requirements.txt
 
-## add the pyw file in to the starup folder
 
+## how to add the code to the startup folder
+
+* download this repo
+* open the cmd then go to the directory where the you save the unzip files.
+* in cmd type: pip install -r requirements.txt
 * windows + r; type shell:startup
 * copy the pyw file into the starup folder
 * restart the device
