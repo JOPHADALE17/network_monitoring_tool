@@ -1,4 +1,4 @@
-## first install the packages:
+## first install the packages if you want to run the code, if you just want the exe it will not be neccessary:
 pip install -r requirements.txt
 
 ## exe file is in the dist folder
