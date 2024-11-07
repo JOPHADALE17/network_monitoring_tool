@@ -5,4 +5,4 @@ pip install -r requirements.txt
 
 ## add the file in to the:
 
-C:\Users\{name of the  user}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+C:\Users\ {name of the  user} \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
