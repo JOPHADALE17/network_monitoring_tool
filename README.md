@@ -9,4 +9,4 @@ C:\Users\ {name of the  user} \AppData\Roaming\Microsoft\Windows\Start Menu\Prog
 
 ## the csv is in the c:/date_network folder then you can find thee csv file
 
-# to make the model mor robust collect the csv after 2 weeks or more to have more robust data to train.
+# To make the model more robust collect the csv file after 2 weeks or more to have more robust data to train.
