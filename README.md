@@ -7,6 +7,6 @@ pip install -r requirements.txt
 
 C:\Users\ {name of the  user} \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
-## the csv is in the c:/date_network folder then you can find thee csv file
+## the csv is in the c:/date_network folder then you can find the csv file
 
 # To make the model more robust collect the csv file after 2 weeks or more to have more robust data to train.
