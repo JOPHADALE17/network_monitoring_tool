@@ -1,7 +1,7 @@
 ## first install the packages:
 pip install -r requirements.txt
 
-## exe file is in ht dist folder
+## exe file is in the dist folder
 
 ## add the file in to the:
 
