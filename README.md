@@ -1,12 +1,13 @@
 ## first install the packages if you want to run the code, if you just want the exe it will not be neccessary:
 pip install -r requirements.txt
 
-## exe file is in the dist folder
+## add the pyw file in to the starup folder
 
-## add the exe file in to the directoory below to make the application start automatically when the device is on:
-
-C:\Users\ {name of the  user} \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
-
-## the csv is in the c:/date_network folder then you can find the csv file
+* windows + r; type shell:startup
+* copy the pyw file into the starup folder
+* restart the device
+* to check the code is running:
+   - go to the c:/data_network folder if it is exist the code is running
+   - to double check: opent the csv file and check if there is new data automatically added
 
 # To make the model more robust collect the csv file after 2 weeks or more to have more robust data to train.
