@@ -3,6 +3,6 @@ pip install -r requirements.txt
 
 ## exe file is in the dist folder
 
-## add the exe file in to the:
+## add the exe file in to the directoory below to make the application start automatically when the device is on:
 
 C:\Users\ {name of the  user} \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
