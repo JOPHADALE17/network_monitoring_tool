@@ -6,3 +6,5 @@ pip install -r requirements.txt
 ## add the exe file in to the directoory below to make the application start automatically when the device is on:
 
 C:\Users\ {name of the  user} \AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+## the csv is in the c:/date_network folder then you can find thee csv file
